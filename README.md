@@ -5,13 +5,14 @@ I am excited to begin a new journey on Github. After working on a autonomous inv
 - 🔭 I’m currently working on creating CNNs for medical imaging diagnostics. 
 - 🌱 I’m currently learning Tensorflow and Python.
 
-![](212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif) 
+![](212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif) ![](5207ei.gif)
 
 
 
 ## Can't Get These Tunes Out of My Head!
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=8l7loy9voxklieg23h8lv8rpm&unique={true|1|on|yes})
 
+* I do not own these GIFs and Images. The rights belong to their respective owners (Anmol Baranwal and 3Blue1Brown).
 <!--
 **ChristianNguyen101/ChristianNguyen101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
