@@ -1,4 +1,3 @@
-![image](https://github.com/ChristianNguyen101/ChristianNguyen101/assets/143425295/6e2c59b5-5b20-44aa-a2e5-5dda7df2f1fc)
 
 ## Hi, my name is Christian Nguyen! Welcome to my page. 
 
@@ -8,6 +7,7 @@ I am excited to begin a new journey on Github. After working on an autonomous in
 - 🌱 I’m currently learning Tensorflow and Python.
 
 ![](212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif) ![](5207ei.gif)
+
 
 Follow me on LinkedIn:
 
