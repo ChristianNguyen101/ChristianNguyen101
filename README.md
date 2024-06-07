@@ -5,7 +5,7 @@ I am excited to begin a new journey on Github. After working on a autonomous inv
 - 🔭 I’m currently working on creating CNNs for medical imaging diagnostics. 
 - 🌱 I’m currently learning Tensorflow and Python.
 
-![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/ChristianNguyen101/ChristianNguyen101/blob/main/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif))
+![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/ChristianNguyen101/ChristianNguyen101/blob/main/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif))
 
 ## Can't Get These Tunes Out of My Head!
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=8l7loy9voxklieg23h8lv8rpm&unique={true|1|on|yes})
