@@ -12,7 +12,7 @@ I am excited to begin a new journey on Github. After working on a autonomous inv
 ## Can't Get These Tunes Out of My Head!
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=8l7loy9voxklieg23h8lv8rpm&unique={true|1|on|yes})
 
-* I do not own these GIFs and Images. The rights belong to their respective owners (Anmol Baranwal and 3Blue1Brown).
+* I do not own these GIFs and Images. The rights belong to their respective owners (Anmol Baranwal, MakeAGIF.com and 3Blue1Brown).
 <!--
 **ChristianNguyen101/ChristianNguyen101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
