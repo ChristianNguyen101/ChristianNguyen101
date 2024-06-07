@@ -5,7 +5,7 @@ I am excited to begin a new journey on Github. After working on a autonomous inv
 - 🔭 I’m currently working on creating CNNs for medical imaging diagnostics. 
 - 🌱 I’m currently learning Tensorflow and Python.
 
-![](212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif) ![](![image](https://github.com/ChristianNguyen101/ChristianNguyen101/assets/143425295/34c6fe6b-8f01-475e-9887-59cb393c8c92)
+![](212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif) 
 
 
 
