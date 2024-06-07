@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristianNguyen101)](https://github.com/anuraghazra/github-readme-stats)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=8l7loy9voxklieg23h8lv8rpm&unique={true|1|on|yes})
 <!--
 **ChristianNguyen101/ChristianNguyen101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
