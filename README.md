@@ -12,7 +12,7 @@ Follow me on LinkedIn:
 [![image](https://github.com/ChristianNguyen101/ChristianNguyen101/assets/143425295/c27791b5-8c37-4790-a060-9112c11d9fab)][1]
 
 
-[1]:[https://www.linkedin.com/in/christian-nguyen-bme/]
+[1]:https://www.linkedin.com/in/christian-nguyen-bme/
 ## Can't Get These Tunes Out of My Head!
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=8l7loy9voxklieg23h8lv8rpm&unique={true|1|on|yes})
 
