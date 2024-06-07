@@ -1,3 +1,5 @@
+![image](https://github.com/ChristianNguyen101/ChristianNguyen101/assets/143425295/6e2c59b5-5b20-44aa-a2e5-5dda7df2f1fc)
+
 ## Hi, my name is Christian Nguyen! Welcome to my page. 
 
 I am excited to begin a new journey on Github. After working on an autonomous invasive ductal carcinoma (IDC) diagnostic CNN on MatLab, I decided to share some of my efforts on this page. Here you can find my ML learning journey, as well as my many personal projects and interests. 
