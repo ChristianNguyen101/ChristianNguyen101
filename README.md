@@ -1,6 +1,6 @@
 ## Hi, my name is Christian Nguyen! Welcome to my page. 
 
-I am excited to begin a new journey on Github. After working on a autonomous invasive ductal carcinoma (IDC) diagnostic CNN on MatLab, I decided to share some of my efforts on this page. Here you can find my ML learning journey, as well as my many personal projects and interests. 
+I am excited to begin a new journey on Github. After working on an autonomous invasive ductal carcinoma (IDC) diagnostic CNN on MatLab, I decided to share some of my efforts on this page. Here you can find my ML learning journey, as well as my many personal projects and interests. 
 
 - 🔭 I’m currently working on creating CNNs for medical imaging diagnostics. 
 - 🌱 I’m currently learning Tensorflow and Python.
