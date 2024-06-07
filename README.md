@@ -8,7 +8,8 @@ I am excited to begin a new journey on Github. After working on an autonomous in
 
 ![](212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif) ![](5207ei.gif)
 
-[![image](https://github.com/ChristianNguyen101/ChristianNguyen101/assets/143425295/717b736c-9fad-4daa-a190-70f09b847df5)][2]
+## Click on the Painting Below to See Some of My Amateur Art Attempt!
+[![image](https://github.com/ChristianNguyen101/ChristianNguyen101/assets/143425295/3568fb73-2b03-4b85-850f-7b24e0bf70f1)][2]
 
 
 ## Can't Get These Tunes Out of My Head!
