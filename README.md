@@ -6,7 +6,7 @@ I am excited to begin a new journey on Github. After working on an autonomous in
 - 🔭 I’m currently working on creating CNNs for medical imaging diagnostics. 
 - 🌱 I’m currently learning Tensorflow and Python.
 
-![](212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif) ![](5207ei.gif)
+[![gif](212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif)][3] ![](5207ei.gif)
 
 Follow me on LinkedIn:
 
@@ -23,6 +23,7 @@ Follow me on LinkedIn:
 
 [1]:https://www.linkedin.com/in/christian-nguyen-bme/
 [2]: https://github.com/ChristianNguyen101/Amateur_Atelier
+[3]: https://github.com/ChristianNguyen101/Machine_Learning_Journey
 * I do not own these GIFs and Images. The rights belong to their respective owners (Anmol Baranwal, make a gif.com, and 3Blue1Brown).
 <!--
 **ChristianNguyen101/ChristianNguyen101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
