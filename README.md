@@ -5,7 +5,7 @@ I am excited to begin a new journey on Github. After working on an autonomous in
 
 - 🔭 I’m currently working on creating CNNs for medical imaging diagnostics. 
 - 🌱 I’m currently learning Tensorflow and Python.
-
+## Click on the Python GIF to check out my Machine Learning Journey in Tensorflow!
 [![gif](212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif)][3] ![](5207ei.gif)
 
 Follow me on LinkedIn:
